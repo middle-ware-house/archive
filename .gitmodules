@@ -1,0 +1,9 @@
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/middle-ware-house/mysql.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/middle-ware-house/redis.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/middle-ware-house/rabbitmq.git
